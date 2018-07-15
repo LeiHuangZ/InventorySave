@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">盘存</string>
+    <string name="click_to_scan">点击扫描</string>
+    <string name="click_to_stop">点击停止</string>
+    <string name="click_to_save">点击保存</string>
+    <string name="scan_sum">共扫描RFID总数：</string>
+    <string name="saved">（已保存）</string>
+    <string name="unsaved">（未保存）</string>
+    <string name="ID">ID</string>
+    <string name="RFID">RFID</string>
+</resources>
